@@ -1,0 +1,15 @@
+<securityKeysInfo>
+        <fileVersion>1393031731419</fileVersion>
+        <callUseKey>1</callUseKey>
+        <verifyBothKeys>false</verifyBothKeys>
+        <securityKey>
+                <keyVersion>0</keyVersion>
+                <secretKey>g4/aciapVVmcMlGrcJlvYuFGfcfF6dmVvAinKHIpWOE=</secretKey>
+        </securityKey>
+        <securityKey>
+                <keyVersion>1</keyVersion>
+                <secretKey>Q2J3OWxGVzFobThwamxjOXJFbmhoc1lZcXJxOEE2ZGE=</secretKey>
+        </securityKey>
+        <hardCodeKeyCompatible>false</hardCodeKeyCompatible>
+</securityKeysInfo>
+
